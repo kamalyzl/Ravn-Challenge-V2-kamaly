@@ -17,9 +17,9 @@ yarn start
 
  ## Built With
 
-* [react native](http://www.dropwizard.io/1.0.2/docs/) 
-* [graphQl](https://api.graphql.jobs/) - Jobs
-* [react navigation](https://reactnavigation.org/) v4
+* React js
+* GraphQl
+* Apollo
 
 ## Result Screens
 
